@@ -1,4 +1,4 @@
-# Hello prey!
+# Hello!
 set dragon.count += 100
 set dragon.experience = 100000000
 
@@ -13,7 +13,7 @@ set player.class = (fighter, wizard, cleric, rogue);
 // When you decide you want to continue your adventuring, all you have to do is click the button clearly labeled.
 
 #### You want to play something else, please leave ...
-set dragon.kill += 1
+set dragon.kills += 1
 
 ##### This is the first of hopefully, many coding repositories ... 
 Have plans to get involved with Linux a lot more. Until then, enjoy the gaming ... (pac man)
